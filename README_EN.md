@@ -27,7 +27,7 @@ This PDF data is not only easy for humans to read but is also **semantically str
 *  💎 **Level 2 (Cross-Based Stitches) Specifications** : https://labo.com/CraftBand/ppband/cross-based-category/
 
 #### 💾 Downloads
-This repository hosts the original, uncompressed high-quality master file.
+This repository hosts the original, uncompressed high-quality master file : [Releases](../../releases/latest)
 *  Features crystal-clear original photography and high-definition grid diagrams. Highly recommended if you wish to print it out to use as your physical design notebook.
 
 *The lightweight mobile-friendly version is distributed on the official website listed above.*
