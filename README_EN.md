@@ -37,4 +37,11 @@ This repository hosts the original, uncompressed high-quality master file : [Rel
 *   **Disclaimer** : The editor and publisher shall not be held liable for any trouble, loss, or damage arising from the use of this catalog and connected web services.
 *   **Updates** : The contents are subject to update and improvement without prior notice. Please refer to the official website for the latest version.
 
+#### 🔄 Updates
+*   **ver.1.0** — August 7, 2026  
+  Initial release.
+*   **ver.1.1** — September 9, 2026  
+  Added bookmark feature.
+
+
 (c) 2026 haru@labo.com
